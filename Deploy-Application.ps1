@@ -92,7 +92,7 @@ Try {
 	# Application install Path.
 	$64bitAppInstallPath = "$PSScriptRoot\Files\DFD7-Setup.exe"
 	# Application  install parameters.
-	$64bitAppInstallParam = "LICENSE_CODE=`"XTUV7-U4QTR-A1JEL-KXAUV-UUMUU-1N7F8-NG6QU-UD5QD-MEYXG-0FTV2`" /QN" 
+	$64bitAppInstallParam = "LICENSE_CODE=`"CONFIDENTIAL`" /QN" 
 
 	##* Remove Application Names 
 	# Mainly used in the Pre-Installation, Pre-Uninstallation, Uninstallation and Post-Uninstallation phases.
